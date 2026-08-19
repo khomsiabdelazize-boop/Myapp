@@ -2,4 +2,3 @@ Hello Git
 Git is powerful
 Feature branch
 Master change
-New feature
