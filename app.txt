@@ -6,3 +6,4 @@ New feature
 Temporary work
 Feature change
 Feature branch2
+New feature for pull request
