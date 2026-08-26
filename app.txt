@@ -4,3 +4,5 @@ Feature branch
 Master change
 New feature
 Temporary work
+Feature change
+Feature branch2
