@@ -7,3 +7,4 @@ Temporary work
 Feature change
 Feature branch2
 New feature for pull request
+Version 1.1 feature
