@@ -9,3 +9,4 @@ Feature branch2
 New feature for pull request
 Version 1.1 feature
 Version 1.2 feature
+Hotfix for version 1.2.1
